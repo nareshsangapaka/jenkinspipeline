@@ -1,6 +1,0 @@
-Jenkins PipeLine
-OverView on Continus Integration (CI)& Continuos Deployment
-What is Jenkins Pipeline
-Jenkins pipeline
-How to Create Pipeline In Jenkins
-How to View Pipeline
